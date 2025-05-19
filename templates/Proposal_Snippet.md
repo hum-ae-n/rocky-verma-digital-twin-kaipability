@@ -1,0 +1,1 @@
+Available for advisory and consulting roles focused on scaling deep-tech to production systems.

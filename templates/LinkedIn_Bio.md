@@ -1,0 +1,1 @@
+Dr. Rocky Verma PhD MBA CEng is an industrialist specialising in scaling manufacturing innovation. CEO of Kaipability Ltd.
