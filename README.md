@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/hum-ae-n/rocky-verma-digital-twin-kaipability">
+    <img src="./rocky_readme_banner.png" alt="Dr. Rocky Verma's Digital Twin AI Persona - Industrial Strategy & Innovation Consulting" width="100%" style="max-width: 800px;" onerror="this.onerror=null; this.src='https://via.placeholder.com/800x200?text=Rocky+Verma+Digital+Twin';">
+  </a>
+</div>
+
 # 🧠 Rocky Verma – Digital Twin AI Persona Repository
 
 **Digital Twin of Dr. Rocky Verma** – Engineered for AI deployment, industrial strategy, capability consulting, and innovation scale-up.
