@@ -23,6 +23,7 @@ This repository contains the structured knowledge, logic, and consulting capabil
 ---
 
 ## 📂 Folder Overview
+rocky-verma-digital-twin-kaipability/
 ├── persona/ # Persona prompt, keywords
 ├── use_cases/ # Manufacturing, policy, venture
 ├── templates/ # Bios, proposals, speaker blurbs
